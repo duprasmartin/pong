@@ -1,5 +1,5 @@
 #include "ofApp.h"
-
+#include "ball.h" // so we can use our ball class
 //--------------------------------------------------------------
 void ofApp::setup(){
 
